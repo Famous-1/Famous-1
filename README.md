@@ -1,6 +1,6 @@
 ![GitHub Banner](https://github.com/Famous-1.png)
 
-# 👋 Hi, I'm Famous (Paul Elarebi)
+# 👋 Hi, I'm Famous (Paul)
 
 **Full-stack Software Engineer | Technical Leader | VP of Engineering (Consultant) @ Farmz2u**
 
