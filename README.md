@@ -39,9 +39,6 @@ Here are a few projects I'm proud of (recently updated):
 - [**Greenquote**](https://github.com/Famous-1/Greenquote)  
   _Sustainable solutions for modern challenges._
 
-- [**Passpally**](https://github.com/Famous-1/Passpally)  
-  _Secure and user-friendly password management application._
-
 > Explore more on my [GitHub profile](https://github.com/Famous-1) and [GitLab](https://gitlab.com/FamousPaul-).
 
 ---
