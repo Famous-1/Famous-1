@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Famous (Paul)
 
-**Full-stack Software Engineer | Technical Leader | VP of Engineering (Consultant) @ Farmz2u**
+**Full-stack Software Engineer | Technical Leader | VP of Engineering (Consultant) @ Farmz2u | CTO @ Ewave**
 
 ---
 
